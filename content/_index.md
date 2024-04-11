@@ -21,7 +21,7 @@ sections:
     design:
       columns: '2'
       view: citation
-- block: markdown
+- block: collection
   content:
     title: Teaching Experience
     text: 
