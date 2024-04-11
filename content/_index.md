@@ -37,7 +37,7 @@ sections:
       columns: '2'
       view: citation
 - block: markdown
-  id: teaching-
+  id: teaching
   content:
     title: Teaching Experience
     text: |
