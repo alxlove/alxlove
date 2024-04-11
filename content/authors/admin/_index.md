@@ -34,8 +34,8 @@ bio: My research interests include distributed robotics, mobile computing and pr
   #- Information Retrieval
 
 # Education to show in About widget
-education:
-  courses:
+#education:
+  #courses:
     #- course: PhD in Artificial Intelligence
     #  institution: Stanford University
     #  year: 2012
@@ -64,7 +64,7 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/alxlove
-  - icon: orchid
+  - icon: orcid
     icon_pack: ai
     link: https://orcid.org/0000-0003-0650-4675
   # Link to a PDF of your resume/CV.
