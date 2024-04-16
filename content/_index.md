@@ -26,10 +26,8 @@ sections:
     id: teaching
     content:
       title: Teaching
-      subtitle: A subtitle
+      subtitle: 
       text: |
-        **Teaching**
-
         - **Course Name**: The Politics of the Bureaucracy  
           - **Role**: Instructor  
           - **Terms**: Fall 2021, Fall 2023, Spring 2023
