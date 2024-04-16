@@ -25,7 +25,7 @@ organizations:
     url: https://www.unc.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include bureaucratic politics and policing/ 
 
 # Interests to show in About widget
 #interests:
@@ -58,8 +58,8 @@ social:
   - icon: envelope
     icon_pack: fas
     link: mailto:ajlove@unc.edu
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
+  - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
+    icon_pack: ai
     link: https://scholar.google.com/citations?user=pmDvLJMAAAAJ&hl=en
   - icon: github
     icon_pack: fab
