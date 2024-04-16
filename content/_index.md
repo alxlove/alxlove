@@ -12,6 +12,7 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
   - block: collection
+    id: publications
     content:
       title: Publications
       filters:
@@ -26,6 +27,17 @@ sections:
     content:
       title: Teaching
       subtitle: A subtitle
-      text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
+      text:       
+        - **Course Name**: The Politics of the Bureaucracy
+          - **Role**: Instructor
+          - **Terms**: Fall 2021, Fall 2023, Spring 2023
+
+        - **Course Name**: Race, Innocence, and the Decline of the Death Penalty
+          - **Role**: Teaching Assistant
+          - **Term**: Spring 2022
+
+        - **Course Name**: Introduction to American Politics
+          - **Role**: Teaching Assistant
+          - **Terms**: Spring 2021, Fall 2022, Spring 2023
 
 ---
