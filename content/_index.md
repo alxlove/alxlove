@@ -22,6 +22,17 @@ sections:
     design:
       columns: '2'
       view: citation
+  - block: collection
+    id: working
+    content:
+      title: Working Papers
+      filters:
+        folders:
+          - working
+        exclude_featured: true
+    design:
+      columns: '2'
+      view: citation
   - block: markdown
     id: teaching
     content:
