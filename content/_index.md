@@ -27,17 +27,19 @@ sections:
     content:
       title: Teaching
       subtitle: A subtitle
-      text:       
-        - **Course Name**: The Politics of the Bureaucracy
-          - **Role**: Instructor
+      text: |
+        **Teaching**
+
+        - **Course Name**: The Politics of the Bureaucracy  
+          - **Role**: Instructor  
           - **Terms**: Fall 2021, Fall 2023, Spring 2023
 
-        - **Course Name**: Race, Innocence, and the Decline of the Death Penalty
-          - **Role**: Teaching Assistant
+        - **Course Name**: Race, Innocence, and the Decline of the Death Penalty  
+          - **Role**: Teaching Assistant  
           - **Term**: Spring 2022
 
-        - **Course Name**: Introduction to American Politics
-          - **Role**: Teaching Assistant
+        - **Course Name**: Introduction to American Politics  
+          - **Role**: Teaching Assistant  
           - **Terms**: Spring 2021, Fall 2022, Spring 2023
 
 ---
