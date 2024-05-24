@@ -16,7 +16,7 @@ publishDate: '2024-04-11T15:46:12.119968Z'
 publication_types:
 - article-journal
 publication: '*Perspectives on Politics*'
-url_pdf: /publication/baumgartner-2021-throwing/throwing-away-the-key-the-unintended-consequences-of-tough-on-crime-laws.pdf
+url_pdf: '/publications/throwing-away-the-key-the-unintended-consequences-of-tough-on-crime-laws.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
